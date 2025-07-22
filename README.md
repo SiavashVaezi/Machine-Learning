@@ -32,7 +32,7 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    🚨R² Score: ~0.82
 4) Visualizations
    - Feature importance bar chart
-     
+     images/feature_importance.png
      
    
 

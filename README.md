@@ -9,7 +9,7 @@ A passionate data science learner with a keen interest in business analysis thro
 This project focuses on predicting the price of used cars in the Iranian market using machine learning. The data was scraped from the BamA website using Selenium, resulting in a dataset of
 nearly 8,500 car listings. The goal is to analyze key price-driving factors and build a predictive model using Random Forest Regression.
 
-1) Data Cleaning
+**1) Data Cleaning**
    
    ✅Removed non-numeric values and outliers.
 
@@ -20,7 +20,7 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    ✅Encoded categorical features (Brand, Model) using LabelEncoder.
 
    ✅Calculated CarAge as a key feature.
-3) Modeling
+**2) Modeling**
    Used Random Forest Regressor to predict car prices.
 
    ✅Train-test split: 80/20
@@ -30,9 +30,18 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    🚨Mean Absolute Error (MAE): ~339007938 IRR
 
    🚨R² Score: ~0.82
-4) Visualizations
+**3) Visualizations**
    - Feature importance bar chart
      ![Chart](images/feature_importance.png)
+   - Predicted vs Actual price scatter plot
+     ![Chart](images/Actual and predicted price dispersion.png)
+   - Price distribution histogram
+     ![Chart](images/Distribution of car prices.png)
+   - Price vs Car Age
+     ![Chart](images/Relationship between car age and price.png)
+   - Average price by brand
+     ![Chart](images/Average car prices by brand.png)
+
      
    
 

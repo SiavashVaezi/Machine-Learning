@@ -34,13 +34,13 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    - Feature importance bar chart
      ![Chart](images/feature_importance.png)
    - Predicted vs Actual price scatter plot
-     ![Chart](images/Actual and predicted price dispersion.png)
+     ![Chart](images/Actual%20and%20predicted%20price%20dispersion.png)
    - Price distribution histogram
-     ![Chart](images/Distribution of car prices.png)
+     ![Chart](images/Distribution%20of%20car%20prices.png)
    - Price vs Car Age
-     ![Chart](images/Relationship between car age and price.png)
+     ![Chart](images/Relationship%20between%20car%20age%20and%20price.png)
    - Average price by brand
-     ![Chart](images/Average car prices by brand.png)
+     ![Chart](images/Average%20car%20prices%20by%20brand.png)
 
      
    

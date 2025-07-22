@@ -10,27 +10,27 @@ This project focuses on predicting the price of used cars in the Iranian market 
 nearly 8,500 car listings. The goal is to analyze key price-driving factors and build a predictive model using Random Forest Regression.
 
 1) Data Cleaning
-   - [x]Removed non-numeric values and outliers.
+   ✅Removed non-numeric values and outliers.
 
-   - [x]Converted mixed calendar years to the Persian calendar.
+   ✅Converted mixed calendar years to the Persian calendar.
 
-   - [x]Filtered out pre-sale and non-standard listings.
+   ✅Filtered out pre-sale and non-standard listings.
 
-   - [x]Encoded categorical features (Brand, Model) using LabelEncoder.
+   ✅Encoded categorical features (Brand, Model) using LabelEncoder.
 
-   - [x]Calculated CarAge as a key feature.
+   ✅Calculated CarAge as a key feature.
 2) Modeling
    Used Random Forest Regressor to predict car prices.
 
-   - [x]Train-test split: 80/20
+   ✅Train-test split: 80/20
 
    **Evaluation Metrics:**
 
-   - [x]Mean Absolute Error (MAE): ~339007938 IRR
+   🚨Mean Absolute Error (MAE): ~339007938 IRR
 
-   - [x]R² Score: ~0.82
+   🚨R² Score: ~0.82
 3) Visualizations
-   - [x]Feature importance bar chart
+   - Feature importance bar chart
      
    
 

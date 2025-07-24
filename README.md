@@ -20,6 +20,7 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    ✅Encoded categorical features (Brand, Model) using LabelEncoder.
 
    ✅Calculated CarAge as a key feature.
+   
 **2) Modeling**
    Used Random Forest Regressor to predict car prices.
 
@@ -30,6 +31,7 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    🚨Mean Absolute Error (MAE): ~339007938 IRR
 
    🚨R² Score: ~0.82
+   
 **3) Visualizations**
    - Feature importance bar chart
      ![Chart](images/feature_importance.png)

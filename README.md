@@ -22,6 +22,7 @@ nearly 8,500 car listings. The goal is to analyze key price-driving factors and 
    ✅Calculated CarAge as a key feature.
    
 **2) Modeling**
+
    Used Random Forest Regressor to predict car prices.
 
    ✅Train-test split: 80/20
